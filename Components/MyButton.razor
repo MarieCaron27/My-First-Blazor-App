@@ -1,0 +1,24 @@
+﻿<button @onclick="OnClick" @attributes="OtherAttributes">@ChildContent</button>
+
+<!-- 
+    We can directly use the OnClick Parameter whether than intermediate function :
+
+    private Task OnButtonClick(MouseEventArgs args)
+    {
+        return OnClick.InvokeAsync(args);
+    }
+
+    because the @onclick needs an EventCallback methods 
+-->
+
+@code 
+{
+    [Parameter]
+    public EventCallback<MouseEventArgs> OnClick { get; set; }
+
+    [Parameter]
+    public RenderFragment ChildContent { get; set; }
+
+    [Parameter(CaptureUnmatchedValues = true)]
+    public Dictionary<string,object> OtherAttributes { get; set; } //Is here to define other attributes like the class on for styling
+}
