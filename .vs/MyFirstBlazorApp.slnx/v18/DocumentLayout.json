@@ -5,14 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0A9F85E8-80DA-C2A8-8D4C-D285216BC79C}|MyFirstBlazorApp.csproj|c:\\users\\utilisateur\\source\\repos\\myfirstblazorapp\\components\\pages\\todos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0A9F85E8-80DA-C2A8-8D4C-D285216BC79C}|MyFirstBlazorApp.csproj|solutionrelative:components\\pages\\todos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A9F85E8-80DA-C2A8-8D4C-D285216BC79C}|MyFirstBlazorApp.csproj|c:\\users\\utilisateur\\source\\repos\\myfirstblazorapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0A9F85E8-80DA-C2A8-8D4C-D285216BC79C}|MyFirstBlazorApp.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A9F85E8-80DA-C2A8-8D4C-D285216BC79C}|MyFirstBlazorApp.csproj|c:\\users\\utilisateur\\source\\repos\\myfirstblazorapp\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0A9F85E8-80DA-C2A8-8D4C-D285216BC79C}|MyFirstBlazorApp.csproj|solutionrelative:components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,20 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\Utilisateur\\source\\repos\\MyFirstBlazorApp\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\Utilisateur\\source\\repos\\MyFirstBlazorApp\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAAB0AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-15T10:32:56.049Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -44,22 +24,10 @@
               "RelativeDocumentMoniker": "Components\\Pages\\Todos.razor",
               "ToolTip": "C:\\Users\\Utilisateur\\source\\repos\\MyFirstBlazorApp\\Components\\Pages\\Todos.razor",
               "RelativeToolTip": "Components\\Pages\\Todos.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-05-15T10:32:25.927Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Counter.razor",
-              "DocumentMoniker": "C:\\Users\\Utilisateur\\source\\repos\\MyFirstBlazorApp\\Components\\Pages\\Counter.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Counter.razor",
-              "ToolTip": "C:\\Users\\Utilisateur\\source\\repos\\MyFirstBlazorApp\\Components\\Pages\\Counter.razor",
-              "RelativeToolTip": "Components\\Pages\\Counter.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-15T09:23:51.706Z"
             }
           ]
         }

@@ -84,3 +84,4 @@ C:\Users\Utilisateur\source\repos\MyFirstBlazorApp\obj\Debug\net10.0\refint\MyFi
 C:\Users\Utilisateur\source\repos\MyFirstBlazorApp\obj\Debug\net10.0\MyFirstBlazorApp.pdb
 C:\Users\Utilisateur\source\repos\MyFirstBlazorApp\obj\Debug\net10.0\MyFirstBlazorApp.genruntimeconfig.cache
 C:\Users\Utilisateur\source\repos\MyFirstBlazorApp\obj\Debug\net10.0\ref\MyFirstBlazorApp.dll
+C:\Users\Utilisateur\source\repos\MyFirstBlazorApp\obj\Debug\net10.0\MyFirstBlazorApp.sourcelink.json
